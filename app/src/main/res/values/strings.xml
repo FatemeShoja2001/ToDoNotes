@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo Notes</string>
+    <string name="toast_theValuesCanNotBeEmpty"> برای ذخیره سازی عنوان نمیتواند خالی باشد. </string>
+    <string name="editText_noteTitle">Note title</string>
+    <string name="editText_description">Description</string>
+    <string name="hint_userName_editText">User Name</string>
+    <string name="hint_password_editText">Password</string>
+    <string name="logIn_button">LogIn</string>
+
+</resources>
